@@ -55,14 +55,3 @@
 
 ---
 
-## 📮 联系方式 Contact
-
-欢迎联系建议、合作或问题反馈！
-
-- 📧 Email: [737039070zb@gmail.com](mailto:737039070zb@gmail.com)  
-- 🌐 GitHub: [Charleszhang631](https://github.com/Charleszhang631)  
-- 💬 微信号: 15525140485  
-- 📕 小红书 ID: 4230202425  
-- 🔗 LinkedIn: [Charles Zhang](https://www.linkedin.com/in/charles-zhang-9606a2246/)
-
----
